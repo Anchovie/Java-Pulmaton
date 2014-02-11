@@ -3,6 +3,7 @@ Java-Pulmaton
 
 Javaprojekti Tohtori Höpsösen avuksi.
 Muuttaa tekstin algoritmin avulla, tai palauttaa jo kryptatun tekstin alkumuotoonsa.
+'quit' lopettaa tunnistautumisen alussa.
 
 [Tehtävänanto](http://niksula.cs.hut.fi/~rantalp1/specs.pdf "Tehtävänanto")
 
